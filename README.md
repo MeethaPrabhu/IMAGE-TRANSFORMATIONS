@@ -53,7 +53,7 @@ plt.show()
 
 
 ii) Image Scaling
-```
+```python
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -70,7 +70,7 @@ plt.show()
 
 
 iii)Image shearing
-```
+```python
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -91,7 +91,7 @@ plt.show()
 
 
 iv)Image Reflection
-```
+```python
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -113,7 +113,7 @@ plt.show()
 
 
 v)Image Rotation
-```
+```python
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -135,7 +135,7 @@ plt.show()
 
 
 vi)Image Cropping
-```
+```python
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
